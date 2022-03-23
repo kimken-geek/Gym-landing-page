@@ -1,0 +1,1 @@
+Creating a gym landing page, while learning HTML, CSS and later on javascript
